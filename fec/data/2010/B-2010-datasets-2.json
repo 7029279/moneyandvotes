@@ -1,0 +1,410 @@
+{
+  "AL": {
+    "stats": {
+      "correlation_coef": 0.8699872841430301,
+      "correlation_sample": 14,
+      "average_spending": 792004.467142857,
+      "topspender_share": 0.873656691790443
+    }
+  },
+  "AK": {
+    "stats": {
+      "correlation_coef": 0.9335285899892365,
+      "correlation_sample": 5,
+      "average_spending": 1010662.7044444444,
+      "topspender_share": 0.6513279344294671
+    }
+  },
+  "AZ": {
+    "stats": {
+      "correlation_coef": 0.8740724995300522,
+      "correlation_sample": 20,
+      "average_spending": 1966662.98,
+      "topspender_share": 0.7693762055717861
+    }
+  },
+  "AR": {
+    "stats": {
+      "correlation_coef": 0.75741268412517,
+      "correlation_sample": 12,
+      "average_spending": 1946930.916923077,
+      "topspender_share": 0.737155183409803
+    }
+  },
+  "CA": {
+    "stats": {
+      "correlation_coef": 0.8116417938432382,
+      "correlation_sample": 105,
+      "average_spending": 873150.8739285717,
+      "topspender_share": 0.8481083644343327
+    }
+  },
+  "CO": {
+    "stats": {
+      "correlation_coef": 0.8868269490791665,
+      "correlation_sample": 21,
+      "average_spending": 1293532.818888889,
+      "topspender_share": 0.7420445187239035
+    }
+  },
+  "CT": {
+    "stats": {
+      "correlation_coef": 0.5672269185030038,
+      "correlation_sample": 11,
+      "average_spending": 3435085.058333333,
+      "topspender_share": 0.800618637811295
+    }
+  },
+  "DE": {
+    "stats": {
+      "correlation_coef": 0.8242774536336689,
+      "correlation_sample": 6,
+      "average_spending": 1410042.088,
+      "topspender_share": 0.6361853361047364
+    }
+  },
+  "FL": {
+    "stats": {
+      "correlation_coef": 0.8773076427931371,
+      "correlation_sample": 66,
+      "average_spending": 1252045.9743037974,
+      "topspender_share": 0.7988882059498278
+    }
+  },
+  "GA": {
+    "stats": {
+      "correlation_coef": 0.8926259209146638,
+      "correlation_sample": 25,
+      "average_spending": 919453.1371428572,
+      "topspender_share": 0.8732181831563486
+    }
+  },
+  "HI": {
+    "stats": {
+      "correlation_coef": 0.8378451180718363,
+      "correlation_sample": 6,
+      "average_spending": 780342.4377777777,
+      "topspender_share": 0.9633491068395851
+    }
+  },
+  "ID": {
+    "stats": {
+      "correlation_coef": 0.82323268559129,
+      "correlation_sample": 5,
+      "average_spending": 980770.4357142858,
+      "topspender_share": 0.9267359433072007
+    }
+  },
+  "IL": {
+    "stats": {
+      "correlation_coef": 0.8898065786989988,
+      "correlation_sample": 42,
+      "average_spending": 1129248.526862745,
+      "topspender_share": 0.8129505124683384
+    }
+  },
+  "IN": {
+    "stats": {
+      "correlation_coef": 0.8421580061281116,
+      "correlation_sample": 21,
+      "average_spending": 1006116.2860869564,
+      "topspender_share": 0.8017339942405656
+    }
+  },
+  "IA": {
+    "stats": {
+      "correlation_coef": 0.6867890834164619,
+      "correlation_sample": 12,
+      "average_spending": 1412355.3738461537,
+      "topspender_share": 0.7495581592128212
+    }
+  },
+  "KS": {
+    "stats": {
+      "correlation_coef": 0.9315448159574438,
+      "correlation_sample": 10,
+      "average_spending": 1300785.4716666667,
+      "topspender_share": 0.813824835413054
+    }
+  },
+  "KY": {
+    "stats": {
+      "correlation_coef": 0.9579118260751697,
+      "correlation_sample": 11,
+      "average_spending": 1787298.8807692307,
+      "topspender_share": 0.8246391635431074
+    }
+  },
+  "LA": {
+    "stats": {
+      "correlation_coef": 0.9579978209598571,
+      "correlation_sample": 14,
+      "average_spending": 1060759.3178260871,
+      "topspender_share": 0.9077781104487861
+    }
+  },
+  "ME": {
+    "stats": {
+      "correlation_coef": 0.9980842455678754,
+      "correlation_sample": 4,
+      "average_spending": 874698.1200000001,
+      "topspender_share": 0.7070908549692017
+    }
+  },
+  "MD": {
+    "stats": {
+      "correlation_coef": 0.9220678236772546,
+      "correlation_sample": 21,
+      "average_spending": 645438.8220000002,
+      "topspender_share": 0.8356243657426662
+    }
+  },
+  "MA": {
+    "stats": {
+      "correlation_coef": 0.8696932368097267,
+      "correlation_sample": 26,
+      "average_spending": 775405.7923076922,
+      "topspender_share": 0.7612027582931066
+    }
+  },
+  "MI": {
+    "stats": {
+      "correlation_coef": 0.8934475166300127,
+      "correlation_sample": 34,
+      "average_spending": 833344.7700000001,
+      "topspender_share": 0.800833376127121
+    }
+  },
+  "MN": {
+    "stats": {
+      "correlation_coef": 0.9028953656245179,
+      "correlation_sample": 27,
+      "average_spending": 1069125.245925926,
+      "topspender_share": 0.7787050267825645
+    }
+  },
+  "MS": {
+    "stats": {
+      "correlation_coef": 0.8350971068985144,
+      "correlation_sample": 8,
+      "average_spending": 695782.3,
+      "topspender_share": 0.774770210158719
+    }
+  },
+  "MO": {
+    "stats": {
+      "correlation_coef": 0.9050436780508895,
+      "correlation_sample": 23,
+      "average_spending": 1292409.9233333333,
+      "topspender_share": 0.7761348259727346
+    }
+  },
+  "MT": {
+    "stats": {
+      "correlation_coef": 0,
+      "correlation_sample": "Not enough data sample  2",
+      "average_spending": 777741.29,
+      "topspender_share": 0.7857545084175741
+    }
+  },
+  "NE": {
+    "stats": {
+      "correlation_coef": 0.9775562036957555,
+      "correlation_sample": 7,
+      "average_spending": 563621.1885714285,
+      "topspender_share": 0.830981582004366
+    }
+  },
+  "NV": {
+    "stats": {
+      "correlation_coef": 0.8400663125675608,
+      "correlation_sample": 9,
+      "average_spending": 4866249.760714286,
+      "topspender_share": 0.78507236891352
+    }
+  },
+  "NH": {
+    "stats": {
+      "correlation_coef": 0.8082759000097585,
+      "correlation_sample": 7,
+      "average_spending": 1861741.8033333335,
+      "topspender_share": 0.5580626348247252
+    }
+  },
+  "NJ": {
+    "stats": {
+      "correlation_coef": 0.8973856001451689,
+      "correlation_sample": 27,
+      "average_spending": 787519.6959259259,
+      "topspender_share": 0.8556230792461208
+    }
+  },
+  "NM": {
+    "stats": {
+      "correlation_coef": 0.8787052534413897,
+      "correlation_sample": 6,
+      "average_spending": 1633410.325,
+      "topspender_share": 0.6565236399406182
+    }
+  },
+  "NY": {
+    "stats": {
+      "correlation_coef": 0.38340336907554046,
+      "correlation_sample": 10,
+      "average_spending": 208809.50000000003,
+      "topspender_share": 0.2626302513336861
+    }
+  },
+  "NC": {
+    "stats": {
+      "correlation_coef": 0.8859343410953959,
+      "correlation_sample": 29,
+      "average_spending": 842528.0574193548,
+      "topspender_share": 0.7839870984500628
+    }
+  },
+  "ND": {
+    "stats": {
+      "correlation_coef": 0.9096670475048242,
+      "correlation_sample": 3,
+      "average_spending": 1262914.1875,
+      "topspender_share": 0.9865304371130651
+    }
+  },
+  "OH": {
+    "stats": {
+      "correlation_coef": 0.8508689638802669,
+      "correlation_sample": 43,
+      "average_spending": 1209133.0445454542,
+      "topspender_share": 0.7560047022825204
+    }
+  },
+  "OK": {
+    "stats": {
+      "correlation_coef": 0.9083707625856332,
+      "correlation_sample": 10,
+      "average_spending": 509534.83999999997,
+      "topspender_share": 0.947139304720412
+    }
+  },
+  "OR": {
+    "stats": {
+      "correlation_coef": 0.9398354200028197,
+      "correlation_sample": 14,
+      "average_spending": 1419687.4671428571,
+      "topspender_share": 0.7395654918967075
+    }
+  },
+  "PA": {
+    "stats": {
+      "correlation_coef": 0.8598568628245189,
+      "correlation_sample": 41,
+      "average_spending": 1831102.3966666665,
+      "topspender_share": 0.7428962398989502
+    }
+  },
+  "RI": {
+    "stats": {
+      "correlation_coef": 0.7791836147029643,
+      "correlation_sample": 8,
+      "average_spending": 670116.11375,
+      "topspender_share": 0.6146887120657595
+    }
+  },
+  "SC": {
+    "stats": {
+      "correlation_coef": 0.8919709721879292,
+      "correlation_sample": 18,
+      "average_spending": 990789.8757894738,
+      "topspender_share": 0.8371738476182725
+    }
+  },
+  "SD": {
+    "stats": {
+      "correlation_coef": 0.9961624474591816,
+      "correlation_sample": 4,
+      "average_spending": 2343867.6225,
+      "topspender_share": 0.7537704855914973
+    }
+  },
+  "TN": {
+    "stats": {
+      "correlation_coef": 0.8705302486267279,
+      "correlation_sample": 22,
+      "average_spending": 524418.5591304348,
+      "topspender_share": 0.8825284639699473
+    }
+  },
+  "TX": {
+    "stats": {
+      "correlation_coef": 0.9048749686703276,
+      "correlation_sample": 61,
+      "average_spending": 619349.3616393441,
+      "topspender_share": 0.8428794682232006
+    }
+  },
+  "UT": {
+    "stats": {
+      "correlation_coef": 0.8950467636661457,
+      "correlation_sample": 11,
+      "average_spending": 404085.53857142857,
+      "topspender_share": 0.9066510183429128
+    }
+  },
+  "VT": {
+    "stats": {
+      "correlation_coef": 0.9032382070567587,
+      "correlation_sample": 5,
+      "average_spending": 436153.4466666666,
+      "topspender_share": 0.9196888669924608
+    }
+  },
+  "VA": {
+    "stats": {
+      "correlation_coef": 0.8854266302855746,
+      "correlation_sample": 29,
+      "average_spending": 1193146.7358620688,
+      "topspender_share": 0.7329411575301399
+    }
+  },
+  "WA": {
+    "stats": {
+      "correlation_coef": 0.8554192339370997,
+      "correlation_sample": 19,
+      "average_spending": 2309259.6405263157,
+      "topspender_share": 0.7680187338730882
+    }
+  },
+  "WV": {
+    "stats": {
+      "correlation_coef": 0.9186317253033716,
+      "correlation_sample": 9,
+      "average_spending": 1345978.332,
+      "topspender_share": 0.6885111735461239
+    }
+  },
+  "WI": {
+    "stats": {
+      "correlation_coef": 0.8760014005174117,
+      "correlation_sample": 20,
+      "average_spending": 2252464.2657142854,
+      "topspender_share": 0.7782138419932954
+    }
+  },
+  "WY": {
+    "stats": {
+      "correlation_coef": 0,
+      "correlation_sample": "Not enough data sample  2",
+      "average_spending": 322807.5,
+      "topspender_share": 0.8925373790881563
+    }
+  },
+  "NA": {
+    "stats": {
+      "correlation_coef": 0.8394740490066472,
+      "correlation_sample": 965,
+      "average_spending": 1183527.7122914754,
+      "topspender_share": 0.7721706321436448
+    }
+  }
+}
