@@ -20,6 +20,9 @@ json2sql >>> reads json files and throw them into sql relational database. I use
 housdistrict.py >>> inside each state, creates lists of districts according to how many districts there are in that state 
 
 
+Data used in this project are collected from FEC under the condition of Non-Commercial use.
+
+
 
 
 
