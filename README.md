@@ -22,7 +22,7 @@ In B-YEAR-datasets-2.json:
 
 "choroplethB" contains choropleth images of "correlation_coef," "average_spending," and "topspender_share." 
 
-Bottom line conclusion >>> There is a high correlation between money and votes.
+Bottom line conclusion >>> Very very high correlation between money and votes.
 
 ==========================================================
 
