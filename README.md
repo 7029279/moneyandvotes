@@ -20,7 +20,7 @@ In B-YEAR-datasets-2.json:
 
 "Stats" has B-YEAR-datasets-2.json's data in .csv format (excel compatible).
 
-"choroplethB" contains choropleth
+"choroplethB" contains choropleth images of "correlation_coef," "average_spending," and "topspender_share." 
 
 Bottom line conclusion >>> There is a high correlation between money and votes.
 
@@ -43,13 +43,15 @@ Visit votesandmoney.com
 
 Main page: you can click the states in the map to see individual House and Senate races.
 ![clicakble-map](https://user-images.githubusercontent.com/28686892/64263100-baa18380-cef4-11e9-9e6e-7940fdbb0abc.png)
-Statistics pages: you can see the 
+Statistics pages: you can see the line graph of three statistics for each state and nationwide. 
+
 ![statistics-page](https://user-images.githubusercontent.com/28686892/64263103-bc6b4700-cef4-11e9-92da-05d288c19098.png)
 Choropleth: shows nation wide trend overtime (you can scroll the bar on the bottom to change the year from 2004 to 2016)
+
 ![Screenshot at 2019-09-04 11-38-31](https://user-images.githubusercontent.com/28686892/64274428-fc3c2980-cf08-11e9-9428-fd7efa002acf.png)
 
 
-(Update 4/Sep/2019)
+(Update)
 The website is temporarily taken down because the GCP sql database was costing too much everyday.
 
 
