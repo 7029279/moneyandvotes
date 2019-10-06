@@ -41,7 +41,7 @@ Data used in this project are collected from FEC under the condition of Non-Comm
 
 Visit votesandmoney.com
 
-Main page: you can click the states in the map to see individual House and Senate races. This is Wisconsin Senate race in 2016.
+Main page: you can click the states in the map to see individual House and Senate races. This one here is Wisconsin Senate race in 2016.
 ![clicakble-map](https://user-images.githubusercontent.com/28686892/64263100-baa18380-cef4-11e9-9e6e-7940fdbb0abc.png)
 Statistics pages: you can see the line graph of three statistics for each state and nationwide. 
 
@@ -53,7 +53,7 @@ Choropleth: shows nation wide trend overtime (you can scroll the bar on the bott
 
 
 (Update)
-The website is temporarily taken down because the GCP sql database was costing too much everyday.
+The website is temporarily taken down because the GCP sql database was costing too money much everyday.
 
 
 
