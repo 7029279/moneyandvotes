@@ -45,10 +45,11 @@ Main page: you can click the states in the map to see individual House and Senat
 ![clicakble-map](https://user-images.githubusercontent.com/28686892/64263100-baa18380-cef4-11e9-9e6e-7940fdbb0abc.png)
 Statistics pages: you can see the line graph of three statistics for each state and nationwide. 
 
-![statistics-page](https://user-images.githubusercontent.com/28686892/64263103-bc6b4700-cef4-11e9-92da-05d288c19098.png)
+![Screenshot_2019-10-05 money votes - Stats](https://user-images.githubusercontent.com/28686892/66262820-9cf26300-e7ad-11e9-8d26-be1f341a0d0f.png)
 Choropleth: shows nation wide trend overtime (you can scroll the bar on the bottom to change the year from 2004 to 2016)
 
-![Screenshot at 2019-09-04 11-38-31](https://user-images.githubusercontent.com/28686892/64274428-fc3c2980-cf08-11e9-9428-fd7efa002acf.png)
+![Screenshot_2019-10-05 money votes - Stats(1)](https://user-images.githubusercontent.com/28686892/66262856-3c175a80-e7ae-11e9-8c3a-4a858fcf8076.png)
+
 
 
 (Update)
