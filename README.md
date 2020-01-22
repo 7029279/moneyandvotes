@@ -54,7 +54,8 @@ Choropleth: shows nation wide trend overtime (you can scroll the bar on the bott
 
 (Update)
 The website is temporarily taken down because the GCP sql database was costing too money much everyday.
-
+(Update) I added demo video of the website as it existed.
+https://vimeo.com/386383025
 
 
 
